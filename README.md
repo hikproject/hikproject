@@ -19,6 +19,7 @@ I'm a student passionate about programming, and I have experience in both web de
   <img src="https://img.shields.io/badge/Library-jQuery-blue?logo=jquery" />
   <img src="https://img.shields.io/badge/Library-Ajax-blue?logo=ajax" />
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual%20studio%20code&logoColor=blue" />
+  <img src="https://img.shields.io/badge/OS-Windows-blue?logo=windows" />
 </p>
 
 ### GitHub Stats:
