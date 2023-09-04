@@ -28,7 +28,7 @@ I'm a student passionate about programming, and I have experience in both web de
 ### Let's Connect!
 <p>
     <a href="https://www.instagram.com/hikmathidayat8" target="blank"><img src="https://img.shields.io/badge/Instagram-@hidayathikmat8-red?style=flat&logo=instagram" /></a>
-<a href="mailto:hidayathikmat8@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-youremail@example.com-30302f?style=flat&logo=email" /></a>
+<a href="mailto:hidayathikmat8@gmail.com" target="blank"><img src="https://img.shields.io/badge/hidayathikmat8@gmail.com-30302f?style=flat&logo=email" /></a>
 <a href="https://www.linkedin.com/in/hikmathidayat" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Hikmat_Hidayat-0077B5?style=flat&logo=linkedin" />
 </a>
