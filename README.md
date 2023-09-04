@@ -3,7 +3,7 @@ I'm a student passionate about programming, and I have experience in both web de
 
 ### About Me:
 - 🔭 I'm currently working on web development and Arduino projects.
-- 🌱 I'm learning new programming languages and technologies, including JavaScript, Swift, and Python.
+- 🌱 I'm learning new programming languages and technologies, including JavaScript, arduino,laravel,jQuery, ajax and Python.
 - 👯 I'm open to collaboration on web development projects and Arduino-related projects.
 - 🤔 I'm looking for guidance and mentorship in mastering programming skills.
 - 💬 Feel free to ask me anything.
@@ -16,6 +16,8 @@ I'm a student passionate about programming, and I have experience in both web de
   <img src="https://img.shields.io/badge/Framework-Laravel-red?logo=laravel" />
   <img src="https://img.shields.io/badge/Platform-Arduino-orange?logo=arduino" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Library-jQuery-blue?logo=jquery" />
+  <img src="https://img.shields.io/badge/Library-Ajax-blue?logo=ajax" />
   <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
