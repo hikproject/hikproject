@@ -3,7 +3,7 @@ I'm a student passionate about programming, and I have experience in both web de
 
 ### About Me:
 - 🔭 I'm currently working on web development and Arduino projects.
-- 🌱 I'm learning new programming languages and technologies, including JavaScript, arduino,laravel,jQuery, ajax and Python.
+- 🌱 I'm learning new programming languages and technologies, including JavaScript, Arduino, Laravel, jQuery, Ajax, and Python.
 - 👯 I'm open to collaboration on web development projects and Arduino-related projects.
 - 🤔 I'm looking for guidance and mentorship in mastering programming skills.
 - 💬 Feel free to ask me anything.
@@ -28,12 +28,16 @@ I'm a student passionate about programming, and I have experience in both web de
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikproject&layout=compact" height=180 />
 </p>
 
+### 🐍 Watch the Snake Eating Contributions:
+<p align="center">
+  <img src="https://github.com/hikproject/hikproject/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ### Let's Connect!
 <p>
     <a href="https://www.instagram.com/hikmathidayat8" target="blank"><img src="https://img.shields.io/badge/Instagram-@hidayathikmat8-red?style=flat&logo=instagram" /></a>
-<a href="mailto:hidayathikmat8@gmail.com" target="blank"><img src="https://img.shields.io/badge/hidayathikmat8@gmail.com-30302f?style=flat&logo=email" /></a>
-<a href="https://www.linkedin.com/in/hikmathidayat" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Hikmat_Hidayat-0077B5?style=flat&logo=linkedin" />
-</a>
-
+    <a href="mailto:hidayathikmat8@gmail.com" target="blank"><img src="https://img.shields.io/badge/hidayathikmat8@gmail.com-30302f?style=flat&logo=email" /></a>
+    <a href="https://www.linkedin.com/in/hikmathidayat" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Hikmat_Hidayat-0077B5?style=flat&logo=linkedin" />
+    </a>
 </p>
