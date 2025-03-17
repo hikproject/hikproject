@@ -30,7 +30,7 @@ I'm a student passionate about programming, and I have experience in both web de
 
 ### 🐍 Watch the Snake Eating Contributions:
 <p align="center">
-  <img src="https://github.com/hikproject/hikproject/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hikproject/hikproject/output/github-contribution-grid-snake.svg" />
 </p>
 
 ### Let's Connect!
