@@ -1,19 +1,25 @@
 # 👋 Hi, I'm Hikmat Hidayat!
 
-🎓 I’m a passionate student exploring the world of **programming**, with hands-on experience in both **web development** and **Arduino projects**. Currently, I'm sharpening my skills through a web development internship.
+🎓 I’m a passionate student exploring the world of **programming**, with hands-on experience in both **web development** and **Arduino projects**.  
+💼 Currently working at **PT Leoco Indonesia** as an **IT Support** and **Web App Developer**.
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently working on **web** and **Arduino** projects
-- 🌱 Learning **JavaScript**, **Laravel**, **jQuery**, **Ajax**, **Arduino**, and **Python**
+- 🔭 Currently working on **web applications** and **embedded systems** (Arduino)
+- 💻 Have built internal web applications including:
+  - 🛠️ **FGMS** – Finished Goods Management System  
+  - 🏨 **Booking Room System** – for meeting room reservations  
+  - ⚙️ **Engineering Process System** – to monitor and manage engineering workflows  
+  > All built using **Laravel framework**
+- 🌱 Learning and building with **JavaScript**, **Laravel**, **jQuery**, **Ajax**, **Arduino**, and **Python**
 - 🤝 Open to collaboration on web-based or embedded system projects
-- 🧠 Seeking **mentorship** and guidance to improve my programming journey
+- 🧠 Seeking **mentorship** and always eager to learn more about real-world tech solutions
 - 💬 Always happy to discuss code, electronics, or cool tech!
 - 📫 Reach me via email: [hidayathikmat8@gmail.com](mailto:hidayathikmat8@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love mixing software with hardware to create real-world solutions!
+- ⚡ Fun fact: I love mixing software with hardware to solve real-world problems!
 
 ---
 
