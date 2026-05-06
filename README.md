@@ -37,15 +37,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=hikproject&show_icons=true&hide_border=true&title_color=000&icon_color=F05454" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hikproject&layout=compact&hide_border=true" height="180" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
